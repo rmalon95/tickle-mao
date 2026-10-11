@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://bvthhww6imjf8"]
+
+[ext_resource type="Script" uid="uid://bbsp1ol11d25" path="res://entities/mao/mao_body.gd" id="1_i0ojj"]
+
+[node name="MaoBody" type="CharacterBody2D" unique_id=334522086]
+script = ExtResource("1_i0ojj")
+
+[node name="Collision" type="CollisionPolygon2D" parent="." unique_id=64541861]
+polygon = PackedVector2Array(24, -55, 34, 37, -57, 17)
+
+[node name="Visual" type="Node2D" parent="." unique_id=1183472941]
+
+[node name="Sprite" type="Sprite2D" parent="Visual" unique_id=2066131518]

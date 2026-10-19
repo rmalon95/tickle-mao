@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://jxao2w35awly"
-path="res://.godot/imported/NotoSerif-Italic.ttf-3719602e8d1eed7c732c0f088e0ec296.fontdata"
+uid="uid://ch651dw6m63dc"
+path="res://.godot/imported/NotoSerif-Regular.ttf-6e3f67e84ff840e5e437d5cce0416d65.fontdata"
 
 [deps]
 
-source_file="res://NotoSerif-Italic.ttf"
-dest_files=["res://.godot/imported/NotoSerif-Italic.ttf-3719602e8d1eed7c732c0f088e0ec296.fontdata"]
+source_file="res://assets/fonts/NotoSerif-Regular.ttf"
+dest_files=["res://.godot/imported/NotoSerif-Regular.ttf-6e3f67e84ff840e5e437d5cce0416d65.fontdata"]
 
 [params]
 

@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://ccqf6wr8qdwse"
-path="res://.godot/imported/NotoSerif-CondensedBold.ttf-1a1dbf7c587ef3e8109a4e2aa3fb9f59.fontdata"
+uid="uid://6oerhion0gg3"
+path="res://.godot/imported/NotoSerif-CondensedItalic.ttf-347d303783795e4fb152523b722c18be.fontdata"
 
 [deps]
 
-source_file="res://NotoSerif-CondensedBold.ttf"
-dest_files=["res://.godot/imported/NotoSerif-CondensedBold.ttf-1a1dbf7c587ef3e8109a4e2aa3fb9f59.fontdata"]
+source_file="res://assets/fonts/NotoSerif-CondensedItalic.ttf"
+dest_files=["res://.godot/imported/NotoSerif-CondensedItalic.ttf-347d303783795e4fb152523b722c18be.fontdata"]
 
 [params]
 
